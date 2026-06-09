@@ -10,14 +10,14 @@ Tenho experiência com processos de ETL/ELT, consultas SQL, automações em Pyth
 
 ## 🚀 Tecnologias e Ferramentas
 
-**Linguagens:** Python, SQL, Scala
-**Dados e Big Data:** PySpark, Apache Spark, Databricks
-**Cloud:** Azure, AWS
-**Orquestração:** Apache Airflow
-**ETL / Integração de Dados:** SAP Data Services, Pentaho
-**Bancos de Dados:** Oracle, SQL Server
-**BI e Análise:** Excel, Power BI, Tableau
-**SAP:** SAP GUI, SAP Cockpit
+- **Linguagens:** Python, SQL, Scala
+- **Dados e Big Data:** PySpark, Apache Spark, Databricks
+- **Cloud:** Azure, AWS
+- **Orquestração:** Apache Airflow
+- **ETL / Integração de Dados:** SAP Data Services, Pentaho
+- **Bancos de Dados:** Oracle, SQL Server
+- **BI e Análise:** Excel, Power BI, Tableau
+- **SAP:** SAP GUI, SAP Cockpit
 
 ## 📌 Projeto em destaque
 
@@ -27,11 +27,11 @@ Atuação em projeto de migração de dados do SAP ECC para SAP S/4HANA, com foc
 
 Principais atividades:
 
-* Tratamento e validação de dados com SQL.
-* Apoio em processos de ETL/ELT.
-* Utilização de SAP Data Services e Pentaho.
-* Criação de consultas SQL em bases Oracle e SQL Server.
-* Desenvolvimento de automações em Python para apoio aos processos de dados.
+- Tratamento e validação de dados com SQL.
+- Apoio em processos de ETL/ELT.
+- Utilização de SAP Data Services e Pentaho.
+- Criação de consultas SQL em bases Oracle e SQL Server.
+- Desenvolvimento de automações em Python para apoio aos processos de dados.
 
 ## 📚 Atualmente estudando
 
